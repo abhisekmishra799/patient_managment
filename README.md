@@ -1,4 +1,4 @@
 # patient_managment
-this is my Patient msnsgment system project
+this is my Patient managment system project
 <br>
-denloped by Abhisek Mishra
+devloped by Abhisek Mishra
